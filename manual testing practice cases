@@ -1,0 +1,10 @@
+manual-testing-practice-cases/
+├── README.md
+├── guru99/
+│   └── Guru99-Test-Cases.xlsx
+├── swaglabs/
+│   └── SwagLabs-Test-Cases.xlsx
+├── amazon/
+│   └── Amazon-Test-Cases.xlsx
+├── nopcommerce/
+│   └── NopCommerce-Test-Cases.xlsx
